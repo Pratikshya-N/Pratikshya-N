@@ -33,6 +33,7 @@ Currently building backend expertise with Node.js (MERN stack)
 ## Featured Projects
 
 ### Incident Monitoring Dashboard (React)
+🔗 https://react-dashboard-app-livid.vercel.app
 A production-style dashboard simulating real-time system monitoring with advanced UI patterns.
 
 **Highlights**
